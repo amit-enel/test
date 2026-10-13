@@ -1,5 +1,6 @@
 ---
 title: Welcome to TechDocs
+excerpt: This space will have a detailed portfolio of my technical writing samples.
 hidden: false
 ---
 <Callout icon="📘" theme="info">
