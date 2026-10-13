@@ -22,4 +22,4 @@ metadata:
 
 ## Key Strengths
 
-- Proven track record of delivering collaterals before deadline.
+- Proven track record of delivering collaterals before deadline.&#x20;
