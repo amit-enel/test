@@ -1,7 +1,9 @@
 ---
-title: Welcome to TechDocs
+title: Welcome
 excerpt: This space will have a detailed portfolio of my technical writing samples.
 hidden: false
+link:
+  new_tab: false
 ---
 <Callout icon="📘" theme="info">
   **Template:**  Delete this callout and edit this page with your content and links.
